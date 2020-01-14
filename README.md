@@ -20,19 +20,21 @@ Logistics:
 
 
 January 14, 2020:
-●	TOC Attendees:
+- TOC Attendees:
 Kohsuke Kawaguchi (Jenkins) [CHAIR] -
 James Strachan (Jenkins X) -
 Dan Lorenc (Tekton) -
 Andy Glover (Spinnaker) -
 Tara Hernandez (Google) -
 Yoav Landman (JFrog) -
-●	Other Attendees: (to be added)
-○	Dan Lopez (Linux Foundation) - present
-○	
-●	Agenda and Notes:
+- Other Attendees: (to be added)
+Dan Lopez (Linux Foundation) - present
+
+- Agenda and Notes:
 - SIG-Interoperability (Fatih)
-■	Voting started on December 12th.
+email to subscrbe: sig-interoperability@lists.cd.foundation 
+
+#Voting started on December 12th.
 Mail thread: https://lists.cd.foundation/g/cdf-toc/topic/68289307
 +1 binding TOC votes (6/6)
 Dan Lorenc: https://lists.cd.foundation/g/cdf-toc/message/312
@@ -41,7 +43,7 @@ Yoav Landman: https://lists.cd.foundation/g/cdf-toc/message/317
 Tara Hernandez: https://lists.cd.foundation/g/cdf-toc/message/318
 Kohsuke Kawaguchi: https://lists.cd.foundation/g/cdf-toc/message/325
 James Strachan: https://lists.cd.foundation/g/cdf-toc/message/327
-■	+1 non-binding community votes
+- +1 non-binding community votes
 Michael Winser: https://lists.cd.foundation/g/cdf-toc/message/313
 Avi Kessner: https://lists.cd.foundation/g/cdf-toc/message/314
 Tracy Miranda: https://lists.cd.foundation/g/cdf-toc/message/319
@@ -65,6 +67,11 @@ Issues related to SIG should be created in the respective repo. CDF support requ
 service desk repo
 
 - SIG Security (Kay) 
+
+mail list & Subscription: https://lists.cd.foundation/g/sig-security   sig-security@lists.cd.foundation
+Documents: https://docs.google.com/document/d/1R-o4TuIed-CX2QIe25HD6793PzPAgojZMbz3q78lqYM/edit#
+Github: https://github.com/cdfoundation/sig-security#meeting-times
+
 Other Business
 Project Service Service Desk - https://cd.foundation/project-services/
 2020 Incubating Project recruiting: https://github.com/cdfoundation/toc/blob/master/PROJECT_LIFECYCLE.md#project-proposal-requirements
