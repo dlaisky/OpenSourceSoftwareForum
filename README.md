@@ -37,8 +37,10 @@ Dan Lopez (Linux Foundation) - present
 email for SIG subscription: sig-interoperability@lists.cd.foundation 
 
 Mail thread: https://lists.cd.foundation/g/cdf-toc/topic/68289307
-#Voting started on December 12th
+
+- Voting started on December 12th
 +1 binding TOC votes (6/6)
+
 Dan Lorenc: https://lists.cd.foundation/g/cdf-toc/message/312
 
 Andy Glover: https://lists.cd.foundation/g/cdf-toc/message/316
