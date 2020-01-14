@@ -21,37 +21,50 @@ Logistics:
 
 January 14, 2020:
 - TOC Attendees:
-Kohsuke Kawaguchi (Jenkins) [CHAIR] -
-James Strachan (Jenkins X) -
-Dan Lorenc (Tekton) -
-Andy Glover (Spinnaker) -
-Tara Hernandez (Google) -
-Yoav Landman (JFrog) -
+● Kohsuke Kawaguchi (Jenkins) [CHAIR]
+● James Strachan (Jenkins X)
+● Dan Lorenc (Tekton)
+● Andy Glover (Spinnaker)
+● Tara Hernandez (Google)
+● Yoav Landman (JFrog)
 - Other Attendees: (to be added)
 Dan Lopez (Linux Foundation) - present
 
 - Agenda and Notes:
-- SIG-Interoperability (Fatih)
-email to subscrbe: sig-interoperability@lists.cd.foundation 
 
-#Voting started on December 12th.
+
+# SIG-Interoperability (Fatih)
+email for SIG subscription: sig-interoperability@lists.cd.foundation 
+
 Mail thread: https://lists.cd.foundation/g/cdf-toc/topic/68289307
+#Voting started on December 12th
 +1 binding TOC votes (6/6)
 Dan Lorenc: https://lists.cd.foundation/g/cdf-toc/message/312
+
 Andy Glover: https://lists.cd.foundation/g/cdf-toc/message/316
+
 Yoav Landman: https://lists.cd.foundation/g/cdf-toc/message/317
+
 Tara Hernandez: https://lists.cd.foundation/g/cdf-toc/message/318
+
 Kohsuke Kawaguchi: https://lists.cd.foundation/g/cdf-toc/message/325
+
 James Strachan: https://lists.cd.foundation/g/cdf-toc/message/327
+
 - +1 non-binding community votes
 Michael Winser: https://lists.cd.foundation/g/cdf-toc/message/313
+
 Avi Kessner: https://lists.cd.foundation/g/cdf-toc/message/314
+
 Tracy Miranda: https://lists.cd.foundation/g/cdf-toc/message/319
+
 Alejandro Saucedo: https://lists.cd.foundation/g/cdf-toc/message/326
 
 #Mail thread/PR
 Mail thread: https://lists.cd.foundation/g/cdf-toc/topic/60607236
+
 PR: https://github.com/cdfoundation/toc/pull/62
+
 Next steps?
 Merging the PR
 TOC member or Dan Lopez can merge once TOC confirms with votes
@@ -66,14 +79,17 @@ should we create issues in CDF Github for these
 Issues related to SIG should be created in the respective repo. CDF support required then the issue should be placed on the foundation 
 service desk repo
 
-- SIG Security (Kay) 
+# SIG Security (Kay) 
+mail list & Subscription: https://lists.cd.foundation/g/sig-security   sig-security@lists.cd.foundation.
 
-mail list & Subscription: https://lists.cd.foundation/g/sig-security   sig-security@lists.cd.foundation
-Documents: https://docs.google.com/document/d/1R-o4TuIed-CX2QIe25HD6793PzPAgojZMbz3q78lqYM/edit#
+Documents: https://docs.google.com/document/d/1R-o4TuIed-CX2QIe25HD6793PzPAgojZMbz3q78lqYM/edit#.
+
 Github: https://github.com/cdfoundation/sig-security#meeting-times
 
-Other Business
+# Other Business
+
 Project Service Service Desk - https://cd.foundation/project-services/
+
 2020 Incubating Project recruiting: https://github.com/cdfoundation/toc/blob/master/PROJECT_LIFECYCLE.md#project-proposal-requirements
 Annual Report 2019 - Draft review (Jacque S to send out)
 CDF Cluster
