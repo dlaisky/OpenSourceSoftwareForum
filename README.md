@@ -12,66 +12,65 @@ Contains the Document Repo
 
 #CDF TOC Readme: https://github.com/cdfoundation/toc
 
-CDF TOC Meeting Agenda
+#CDF TOC Meeting Agenda
 Logistics:
 ●	Meeting: https://zoom.us/my/cdf.toc
 ●	Youtube Channel: https://www.youtube.com/channel/UC7HcWhSetq6nTlpMXPHKz_A
 ●	Twitter: https://twitter.com/CDeliveryFdn
 
+
 January 14, 2020:
 ●	TOC Attendees:
-○	Kohsuke Kawaguchi (Jenkins) [CHAIR] -
-○	James Strachan (Jenkins X) -
-○	Dan Lorenc (Tekton) -
-○	Andy Glover (Spinnaker) -
-○	Tara Hernandez (Google) -
-○	Yoav Landman (JFrog) -
-●	Other Attendees:
+Kohsuke Kawaguchi (Jenkins) [CHAIR] -
+James Strachan (Jenkins X) -
+Dan Lorenc (Tekton) -
+Andy Glover (Spinnaker) -
+Tara Hernandez (Google) -
+Yoav Landman (JFrog) -
+●	Other Attendees: (to be added)
 ○	Dan Lopez (Linux Foundation) - present
 ○	
 ●	Agenda and Notes:
-○	SIG-Interoperability (Fatih)
+- SIG-Interoperability (Fatih)
 ■	Voting started on December 12th.
-●	Mail thread: https://lists.cd.foundation/g/cdf-toc/topic/68289307
-■	+1 binding TOC votes (6/6)
-●	Dan Lorenc: https://lists.cd.foundation/g/cdf-toc/message/312
-●	Andy Glover: https://lists.cd.foundation/g/cdf-toc/message/316
-●	Yoav Landman: https://lists.cd.foundation/g/cdf-toc/message/317
-●	Tara Hernandez: https://lists.cd.foundation/g/cdf-toc/message/318
-●	Kohsuke Kawaguchi: https://lists.cd.foundation/g/cdf-toc/message/325
-●	James Strachan: https://lists.cd.foundation/g/cdf-toc/message/327
+Mail thread: https://lists.cd.foundation/g/cdf-toc/topic/68289307
++1 binding TOC votes (6/6)
+Dan Lorenc: https://lists.cd.foundation/g/cdf-toc/message/312
+Andy Glover: https://lists.cd.foundation/g/cdf-toc/message/316
+Yoav Landman: https://lists.cd.foundation/g/cdf-toc/message/317
+Tara Hernandez: https://lists.cd.foundation/g/cdf-toc/message/318
+Kohsuke Kawaguchi: https://lists.cd.foundation/g/cdf-toc/message/325
+James Strachan: https://lists.cd.foundation/g/cdf-toc/message/327
 ■	+1 non-binding community votes
-●	Michael Winser: https://lists.cd.foundation/g/cdf-toc/message/313
-●	Avi Kessner: https://lists.cd.foundation/g/cdf-toc/message/314
-●	Tracy Miranda: https://lists.cd.foundation/g/cdf-toc/message/319
-●	Alejandro Saucedo: https://lists.cd.foundation/g/cdf-toc/message/326
-■	Mail thread/PR
-●	Mail thread: https://lists.cd.foundation/g/cdf-toc/topic/60607236
-●	PR: https://github.com/cdfoundation/toc/pull/62
-■	Next steps?
-●	Merging the PR
-○	TOC member or Dan Lopez can merge once TOC confirms with votes
-○	Dan Lopez merged: https://github.com/cdfoundation/toc/blob/master/sigs/sig-interoperability.md
-●	Logistics:
-○	Repos
-■	https://github.com/cdfoundation/sig-Interoperability
-○	Maillist
-■	https://lists.cd.foundation/g/sig-interoperability
-○	Slack channel
-■	#sig-interoperability
-○	Zoom access
-■	Every (?) Thursday? Of the month
-■	Once this is determined, Dan Lopez can setup the conf line
-○	should we create issues in CDF Github for these?
-■	Issues related to SIG should be created in the respective repo. CDF support required then the issue should be placed on the foundation service desk repo
-○	SIG Security (Kay) 
-■	
-○	Other Business
-■	Project Service Service Desk - https://cd.foundation/project-services/
-■	2020 Incubating Project recruiting: https://github.com/cdfoundation/toc/blob/master/PROJECT_LIFECYCLE.md#project-proposal-requirements
-■	Annual Report 2019 - Draft review (Jacque S to send out)
-■	CDF Cluster
-■	CFP Committee
+Michael Winser: https://lists.cd.foundation/g/cdf-toc/message/313
+Avi Kessner: https://lists.cd.foundation/g/cdf-toc/message/314
+Tracy Miranda: https://lists.cd.foundation/g/cdf-toc/message/319
+Alejandro Saucedo: https://lists.cd.foundation/g/cdf-toc/message/326
+
+#Mail thread/PR
+Mail thread: https://lists.cd.foundation/g/cdf-toc/topic/60607236
+PR: https://github.com/cdfoundation/toc/pull/62
+Next steps?
+Merging the PR
+TOC member or Dan Lopez can merge once TOC confirms with votes
+Dan Lopez merged: https://github.com/cdfoundation/toc/blob/master/sigs/sig-interoperability.md
+Logistics:
+Repos: https://github.com/cdfoundation/sig-Interoperability
+Maillist ■	https://lists.cd.foundation/g/sig-interoperability
+Slack channel #sig-interoperability
+Zoom access Every (?) Thursday? Of the month
+Once this is determined, Dan Lopez can setup the conf line
+should we create issues in CDF Github for these
+Issues related to SIG should be created in the respective repo. CDF support required then the issue should be placed on the foundation 
+service desk repo
+
+- SIG Security (Kay) 
+Other Business
+Project Service Service Desk - https://cd.foundation/project-services/
+2020 Incubating Project recruiting: https://github.com/cdfoundation/toc/blob/master/PROJECT_LIFECYCLE.md#project-proposal-requirements
+Annual Report 2019 - Draft review (Jacque S to send out)
+CDF Cluster
+CFP Committee
 
 
 # Other links
